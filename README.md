@@ -8,5 +8,5 @@
 - C++ 17
    
 # DOCUMENTATION
-## [EN](https://github.com/atxxxm/bull/wiki/EN)
-## [RU](https://github.com/atxxxm/bull/wiki/RU)
+## [EN](https://github.com/atxxxm/bull-wLib/wiki/EN)
+## [RU](https://github.com/atxxxm/bull-wLib/wiki/RU)
